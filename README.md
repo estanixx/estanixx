@@ -13,13 +13,22 @@
                 />
                 <br/>
                 <figcaption>
-                    The Memento Mori by Gabriella Sotiriou
+                    The Memento Mori by Gabriella Sotiriou.
                 <figcaption>
             </figure>
+            <br/>
             <em>Memento homo quia pulvis es et in pulverem reverteris.</em>
         </td>
         <td>
-            I'm Juan Esteban Arango Zapata, a 18 year-old life-long learner and scholar when it comes to programming. Personally, all my life I've trust in the power of discipline, practice, and effot, that's just what I want to show you all with each project I do. I bet for quantity to teach me about quality.
+            <p>
+                I'm Juan Esteban Arango Zapata, a 18 year-old life-long learner and scholar when it comes to programming. Personally, all my life I've trust in the power of discipline, practice, and effot, that's just what I want to show you all with each project I do. I bet for quantity to teach me about quality.
+            </p>
+            <p>
+                Programming has been my passion since I was a kid, and as soon as I entered this world I knew this was for me. I've studied tireless and I won't stop doing it despite how much I could ever know.
+            </p>
+            <p>
+                I'm always available for any coding business, so don't doubt in getting in contact if you need anything.
+            </p>
         </td>
     </tr>
     <tr>
