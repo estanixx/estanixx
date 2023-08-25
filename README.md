@@ -7,7 +7,7 @@
             <figure>
                 <img
                     allign="left"
-                    src="https://raw.githubusercontent.com/EsJuan-az/EsJuan-az/main/assets/profile_pic.jpg"
+                    src="https://raw.githubusercontent.com/EsJuan-az/EsJuan-az/main/assets/img/profile_pic.jpg"
                     width="550"
                     alt="The Memento Mori by Gabriella Sotiriou"
                 />
