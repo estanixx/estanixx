@@ -21,7 +21,7 @@
         </td>
         <td>
             <p>
-                I'm Juan Esteban Arango Zapata, a 18 year-old life-long learner and scholar when it comes to programming. Personally, all my life I've trust in the power of discipline, practice, and effot, that's just what I want to show you all with each project I do. I bet for quantity to teach me about quality.
+                I'm Juan Esteban Arango Zapata, a 18 year-old life-long learner and scholar when it comes to programming. Personally, all my life I've trust in the power of discipline, practice, and effort, that's just what I want to show you all with each project I do. I bet for quantity to teach me about quality.
             </p>
             <p>
                 Programming has been my passion since I was a kid, and as soon as I entered this world I knew this was for me. I've studied tireless and I won't stop doing it despite how much I could ever know.
