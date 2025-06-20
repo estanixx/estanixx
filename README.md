@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-  <div style='font-size: 20px; display: inline-flex; align-items: center; gap: 20px;'>
+  <div style='font-size: 20px; display: inline-flex; align-items: center; gap: 20px; line-height: 100px'>
     <b><i>And so on...</i></b>
     <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRhYWpjN3E0MWRlNHlrYjF5OXEwZHowdHkzNncyOGc2c3VyM3V2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/i7C42rkeDTeeRz2KRq/giphy.gif' alt='robot-wink' width='100px'/>
   </div>
