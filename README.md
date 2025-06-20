@@ -49,10 +49,9 @@
 </div>
 
 <div align="center">
-  <div style='font-size: 20px; display: inline-flex; align-items: center; gap: 20px; line-height: 100px'>
     <b><i>And so on...</i></b>
+    <br/>
     <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRhYWpjN3E0MWRlNHlrYjF5OXEwZHowdHkzNncyOGc2c3VyM3V2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/i7C42rkeDTeeRz2KRq/giphy.gif' alt='robot-wink' width='100px'/>
-  </div>
 </div>
 
 ### 🚀 About Me
@@ -89,18 +88,18 @@
 
 ### 📊 My GitHub Stats
 
-<p style='display:flex; justify-content: space-around;'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estanixx&show_icons=true&locale=en&layout=compact&theme=dracula" alt="estanixx" />
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estanixx&layout=donut-vertical&theme=dark&hide=jupyter+notebook,c" alt="estanixx" />
   <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estanixx&theme=dracula" alt="estanixx" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estanixx&theme=dark" alt="estanixx" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=estanixx&show_icons=true&locale=en&theme=dracula" alt="estanixx" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=estanixx&show_icons=true&theme=dark&rank_icon=github" alt="estanixx" />
 </p>
 
 <hr>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=estanixx&theme=dracula&column=4&margin-w=15&margin-h=15" alt="estanixx" />
+    <img src="https://github-profile-trophy.vercel.app/?username=estanixx&theme=dark&column=4&margin-w=15&margin-h=15" alt="estanixx" />
   </a>
 </p>
