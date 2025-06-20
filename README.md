@@ -1,91 +1,106 @@
-
-# ✨I'm Juan, and welcome to my developer journey.
-
-## 💬 Table of contents:
-- [🚀 Acerca de mí.](#-acerca-de-mí)
-- [⚔️ Objetivos.](#%EF%B8%8Fobjetivo)
-- [🎁 Skillset.](#-skillset)
-- [📽️ Proyectos.](#%EF%B8%8Fproyectos)
-
-
-He tenido la oportunidad de aprender mucho en mi camino, de tal manera que he ahondado bastante en temas como lo es el Desarrollo Web Full Stack - tanto Front-end como Back-end y ETLs (para el tratamiento de datos) y no pretendo dejar de hacerlo nunca.
-
-<div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=EsJuan-az&show_icons=true" alt="GitHub stats">
-    <img src="https://streak-stats.demolab.com/?user=EsJuan-az" alt="GitHub streak stats">
+<div align="center">
+  <h1 align="center">
+    Me, Estanix
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    🤖
+  </h1>
+  <a href="https://github.com/estanixx">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=33&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=700&lines=Tireless+Learner+from+Colombia+%F0%9F%A7%A0;Fullstack+Developer+%F0%9F%91%BE;AWS+Cloud+Enthusiast+%E2%9B%88%EF%B8%8F;Quant+Trader+%F0%9F%92%B8" alt="Typing SVG" />
+  </a>
 </div>
-<center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsJuan-az" alt="Top Langs">
-</center>
 
-## ⚔️Objetivo
-Mediante este proyecto freelance pretendo aportar valor a empresas e iniciativas de manera autónoma y así, mediante éste ejercicio pedagógico y en vistas de iniciarme en el mundo profesional, mejorar mis habilidades mientras las pongo al servicio de los demás.  
+<br>
 
+<div align="center" style='font-size: 30px'>
+  <img src="assets/img/strength.jpg" alt="Strength Tarot Card" width="300" style="border-radius: 15px;"/>
+  <br>
+  <b><i>"I ask not for a lighter burden but for broader shoulders."</i></b>
+</div>
 
-## 🎁 Skillset
-### 🌺 Frontend
-Tengo experiencia maquetando y diseñando sitios web desde cero, ya sea mediante frameworks vainilla - como lo es Vite -, como con frameworks estructurados, sean React, Next, o Django.
-<p align="center">
-    <img src="https://mirayhazlo.com/wp-content/uploads/2018/09/Html5_dise%C3%B1o_web-1.png" width="60px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="50px"/>
-    <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="60px" /></a>
-    <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo-with-shadow.png" width="50px" /></a>
-    <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50px" /></a>
-    <a href="https://www.djangoproject.com/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636780048014/niLN2J80j.png" width="90px" /></a>
-</p>
-<p align="center">
-    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" width="60px"/>
-      <a href="https://sass-lang.com/"><img src="https://sass-lang.com/assets/img/logos/logo.svg" width="60px" /></a>
-    <a href="https://lesscss.org/"><img src="https://lesscss.org/public/img/less_logo.png" width="95px" /></a>
-    <a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/640px-Tailwind_CSS_Logo.svg.png" width="65px" /></a>
-    <a href="https://getbootstrap.com/"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="70px" /></a>
-    <a href="https://chakra-ui.com/"><img src="https://archive.org/download/github.com-chakra-ui-chakra-ui_-_2020-02-13_17-20-29/cover.jpg" width="50px" /></a>
+<hr/>
 
-</p>
+### 🛠️ Languages and Tools
 
+<div style='margin: 0 auto; display: grid; grid-template-columns: repeat(5, 1fr); grid-template-rows: repeat(7, 1fr); grid-column-gap: 20px; grid-row-gap: 20px;' align='center'>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="nestjs" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+</div>
 
+<div align="center">
+  <div style='font-size: 20px; display: inline-flex; align-items: center; gap: 20px;'>
+    <b><i>And so on...</i></b>
+    <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRhYWpjN3E0MWRlNHlrYjF5OXEwZHowdHkzNncyOGc2c3VyM3V2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/i7C42rkeDTeeRz2KRq/giphy.gif' alt='robot-wink' width='100px'/>
+  </div>
+</div>
 
-En terminos de estilización, conozco recursos como lo pueden ser Bootstrap o Tailwind - para la estilización inline - o CSS, Sass, Less para una estilización en cascada, junto con herramientas de componentes como Chakra UI para traer rapidamente componentes prefabricados.
-### 👾 Backend
-Tengo un gusto especial hacia ésta sección, al profundizar en backend, es imposible dejar de lado las bases de datos SQL - tales como PostgreSQL y MySQL -  y NoSQL - tales como Mongo o Google Firebase.
-<p align="center">
-    <a href="https://nodejs.org/en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="85" /></a>
-    <a href="https://www.postgresql.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="60px" /></a>
-  <a href="https://sequelize.org/"><img src="https://miro.medium.com/v2/resize:fit:250/0*rwd6KeolcXgz7zpx.png" width="65" /></a>
-    <a href="https://www.djangoproject.com/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636780048014/niLN2J80j.png" width="90px" /></a>
-  <a href="https://expressjs.com/ "><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="65" /></a>
-  <a href="https://nestjs.com/"><img src="https://nestjs.com/logo-small-gradient.76616405.svg" width="65" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" width="65" /></a>
-</p>
+### 🚀 About Me
 
-En términos de la creación de microservicios he tenido el gusto de desarrollar API RESTful mediante Express.js y Nest.js, combinados con Sequelize para un uso más orientado a objetos de los datos.
+- 🔭 I’m currently building cool things at **[Voir Store](https://www.voirstore.com/)** and **[Tecde AI](https://www.tecde.ai/)**.
+- 🌱 My current obsession is **AWS Cloud** and **Quantitative Analysis**. Knowledge is power!
+- 👯 I’m always open to collaborate on exciting projects.
+- 💬 Ask me anything about **Fullstack Development**.
+- 📫 You can reach me at: **juarangoz@unal.edu.co**.
+- ⚡ Fun fact: I'm a **Cosmere Enjoyer**. Journey Before Destination, Radiant!
 
-### ⛏️ Data Science & ETL
+<br>
 
-Veo el futuro detrás del manejo de los datos, de su Estracción, Transformación y Carga, es por esto que - junto con las queries en las bases de datos - he aprendido las herramientas de mapeo y visualización características de python.
-<p align="center">
-    <a href="https://pandas.pydata.org/"><img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="130" /></a>
-    <a href="https://numpy.org/"><img src="https://numpy.org/images/logo.svg" width="60px" /></a>
-  <a href="https://matplotlib.org/"><img src="https://matplotlib.org/_static/logo_dark.svg" width="190" /></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="160" /></a>
-  <a href="https://scikit-learn.org/stable/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="135" /></a>
-</p>
-
-
-## 🚀 Acerca de mí
-Soy - en definitiva - una persona que ama el conocimiento y cree en todo el futuro que es posible edificar con él. Estudiante de tercer semestre en la Universidad Nacional de Colombia; dedico mi tiempo libre al aprendizaje de nuevas tecnologías y el desarrollo de diversos proyectos a partir de éstas.
-- ***Nombre:*** Juan Esteban Arango Zapata.
-- ***Edad:*** 18 años.
-- ***Ubicación:*** Copacabana, Antioquia.
-- ***Redes:***
+### 🔗 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/juan-e-arango-z-7617792ab"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="40"/></a>
-<a href="https://github.com/EsJuan-az"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"/></a>
-<a href="mailto:juarangoz@unal.edu.co"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="40"/></a>
-<a href="https://stackoverflow.com/users/23618356/juan-esteban-arango-zapata"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="50"/></a>
-<a href="https://www.fiverr.com/juan_es_05?up_rollout=true"><img src="https://freelogopng.com/images/all_img/1656739457fiverr-transparent-logo.png" width="40"/></a>
-<a href="https://www.freelancer.com.co/u/juarangozx?sb=t"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/freelancer_logo_icon_171122.png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/juan-esteban-arango-zapata-0065822bb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://dev.to/estanix" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"/>
+  </a>
+  <a href="https://stackoverflow.com/users/juan-esteban-arango-zapata" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="https://www.instagram.com/estanix/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
+<br>
 
+<br>
+
+### 📊 My GitHub Stats
+
+<p style='display:flex; justify-content: space-around;'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estanixx&show_icons=true&locale=en&layout=compact&theme=dracula" alt="estanixx" />
+  <br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estanixx&theme=dracula" alt="estanixx" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=estanixx&show_icons=true&locale=en&theme=dracula" alt="estanixx" />
+</p>
+
+<hr>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=estanixx&theme=dracula&column=4&margin-w=15&margin-h=15" alt="estanixx" />
+  </a>
+</p>
